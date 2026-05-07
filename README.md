@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Emmanuel Ita
+
 I’m a final year electrical engineering student at Ontario Tech university
 
 I’m very intersted in electronics and communications
