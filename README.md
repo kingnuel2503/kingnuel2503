@@ -26,8 +26,8 @@ Electrical & Computer Engineering Graduate focused on RF/Microwave Design, Mixed
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** 
+- **Email:** emmanuelasuquo03@gmail.com
 
 <!--
 **kingnuel2503/kingnuel2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
