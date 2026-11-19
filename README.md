@@ -9,7 +9,6 @@ Electrical & Computer Engineering Graduate focused on RF/Microwave Design, Signa
 **Hardware & EDA**
 ![KiCad](https://img.shields.io/badge/KiCad-314159?style=for-the-badge&logo=kicad&logoColor=white)
 ![Keysight ADS](https://img.shields.io/badge/Keysight_ADS-000000?style=for-the-badge&logo=keysight&logoColor=red)
-![Altium](https://img.shields.io/badge/Altium_Designer-A22328?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 **Programming & Environments**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,7 +33,7 @@ Electrical & Computer Engineering Graduate focused on RF/Microwave Design, Signa
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/emmanuel-a-ita)
 - **Email:** emmanuelasuquo03@gmail.com
 
 <!--
