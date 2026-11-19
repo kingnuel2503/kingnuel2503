@@ -33,7 +33,7 @@ Electrical & Computer Engineering Graduate focused on RF/Microwave Design, Signa
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/emmanuel-a-ita)
+- **LinkedIn:** [www.linkedin.com/in/emmanuel-a-ita](www.linkedin.com/in/emmanuel-a-ita)
 - **Email:** emmanuelasuquo03@gmail.com
 
 <!--
