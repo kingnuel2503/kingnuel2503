@@ -29,7 +29,7 @@ Electrical Engineering graduate focused on **multi-layer PCB design**, **embedde
 
 | Project | Focus | Tools | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[MCU Datalogger](https://github.com/kingnuel2503)** | Embedded / PCB | KiCad | ATmega-based datalogger featuring I²C RTC and EEPROM interfaces, routed in both 2-layer and 4-layer variants. |
+| **[MCU Datalogger](https://github.com/kingnuel2503/MCU-Datalogger)** | Embedded / PCB | KiCad | ATmega-based datalogger featuring I²C RTC and EEPROM interfaces, routed in both 2-layer and 4-layer variants. |
 | **[Tiny Solar Supply](https://github.com/kingnuel2503/Tiny-solar-supply)** | Power / PCB | KiCad | Compact 2-layer solar energy harvesting board engineered for low-power embedded nodes. |
 | **[Breadboard Power Supply](https://github.com/kingnuel2503/Breadboard-power-supply)** | Power / PCB | KiCad | Dual-voltage plug-in breadboard power module built for rapid bench prototyping. |
 | **[Microwave Bandpass Filter](https://github.com/kingnuel2503)** | RF / Microstrip | QUCS-S, KiCad | 3.23–4.37 GHz microstrip bandpass filter achieving >55 dB lower-stopband rejection. |
