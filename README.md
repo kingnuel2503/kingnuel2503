@@ -1,40 +1,46 @@
-# Hi there, I'm Emmanuel 👋
-
-Electrical & Computer Engineering Graduate focused on RF/Microwave Design, Signal processing and Hardware Systems.
-
----
-
-### 🛠️ Tech Stack & Hardware Tools
-
-**Hardware & EDA**
-![KiCad](https://img.shields.io/badge/KiCad-314159?style=for-the-badge&logo=kicad&logoColor=white)
-![Keysight ADS](https://img.shields.io/badge/Keysight_ADS-000000?style=for-the-badge&logo=keysight&logoColor=red)
-
-**Programming & Environments**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-- **RF & Microwave Design:** Keysight ADS, QUCS-S, Smith Chart Analytics, Impedance Matching Networks
-- **PCB Design & Simulation:** KiCad, Microstrip Translation, Substrate Analysis (Rogers RT/duroid)
-- **Programming & Analysis:** C, Python, Hardware Simulation Scripts
+<div align="center">
+  <h1>Emmanuel A. Ita</h1>
+  <p><strong>Electrical Engineering Graduate • PCB Design • Embedded Systems • RF & DSP</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/emmanuel-a-ita"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:emmanuelasuquo03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-### 📌 Pinned Highlights
+### ⚡ About Me
+Electrical Engineering graduate focused on **multi-layer PCB design**, **embedded hardware**, and **digital signal processing**. I enjoy taking hardware from schematic capture and simulation through layout, fabrication-ready Gerbers, and bench bring-up—with a growing focus on real-time DSP and RF/communications hardware.
 
-| Project | Domain | Key Tools | Description |
+---
+
+### 🛠️ Engineering Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **PCB & Hardware Design** | KiCad (2- & 4-Layer Layout, DRC, Gerber Generation), Hardware Bring-Up & Debugging |
+| **Embedded & HDL** | C, C++, Python, VHDL, SystemVerilog, I²C / Peripheral Interfacing |
+| **DSP & RF Simulation** | MATLAB, Keysight ADS, QUCS-S, Modulation & S-Parameter Analysis |
+| **Lab Instrumentation** | Oscilloscopes, Function/Signal Generators, Digital Multimeters |
+
+---
+
+### 📌 Featured Hardware & DSP Projects
+
+| Project | Focus | Tools | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[Microwave-Bandpass-filter](./)** | RF / PCB | QUCS-S, KiCad | Design and layout of a 3.23–4.37 GHz microstrip bandpass filter. |
-| **[Tuning-matching-networks](./)** | Microwave | Keysight ADS | Single open-circuit shunt stub matching networks on Rogers RT/duroid 6002. |
-| **[Digital-Communication-Projects](./)** | Signal Processing | MATLAB | Constellation region mapping for 4-PAM, QPSK, and 8-PSK signals. |
+| **[MCU Datalogger](https://github.com/kingnuel2503)** | Embedded / PCB | KiCad | ATmega-based datalogger featuring I²C RTC and EEPROM interfaces, routed in both 2-layer and 4-layer variants. |
+| **[Tiny Solar Supply](https://github.com/kingnuel2503/Tiny-solar-supply)** | Power / PCB | KiCad | Compact 2-layer solar energy harvesting board engineered for low-power embedded nodes. |
+| **[Breadboard Power Supply](https://github.com/kingnuel2503/Breadboard-power-supply)** | Power / PCB | KiCad | Dual-voltage plug-in breadboard power module built for rapid bench prototyping. |
+| **[Microwave Bandpass Filter](https://github.com/kingnuel2503)** | RF / Microstrip | QUCS-S, KiCad | 3.23–4.37 GHz microstrip bandpass filter achieving >55 dB lower-stopband rejection. |
+| **[Stub Matching Networks](https://github.com/kingnuel2503)** | RF / Microwave | Keysight ADS | Single open-circuit shunt stub matching networks for a $100 + j80\ \Omega$ load at 3.2 GHz on Rogers RT/duroid 6002. |
+| **[Digital Modulation Constellations](https://github.com/kingnuel2503)** | DSP / Comms | MATLAB | 4-PAM, QPSK, and 8-PSK constellation region mapping optimized for minimum Euclidean distance. |
 
 ---
 
-### 📬 Connect With Me
-
-- **LinkedIn:** [www.linkedin.com/in/emmanuel-a-ita](www.linkedin.com/in/emmanuel-a-ita)
-- **Email:** emmanuelasuquo03@gmail.com
+### 📬 Get in Touch
+- **LinkedIn:** [linkedin.com/in/emmanuel-a-ita](https://www.linkedin.com/in/emmanuel-a-ita)
+- **Email:** [emmanuelasuquo03@gmail.com](mailto:emmanuelasuquo03@gmail.com)
 
 <!--
 **kingnuel2503/kingnuel2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
