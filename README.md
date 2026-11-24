@@ -33,7 +33,7 @@ Electrical Engineering graduate focused on **multi-layer PCB design**, **embedde
 | **[Tiny Solar Supply](https://github.com/kingnuel2503/Tiny-solar-supply)** | Power / PCB | KiCad | Compact 2-layer solar energy harvesting board engineered for low-power embedded nodes. |
 | **[Breadboard Power Supply](https://github.com/kingnuel2503/Breadboard-power-supply)** | Power / PCB | KiCad | Dual-voltage plug-in breadboard power module built for rapid bench prototyping. |
 | **[Microwave Bandpass Filter](https://github.com/kingnuel2503)** | RF / Microstrip | QUCS-S, KiCad | 3.23–4.37 GHz microstrip bandpass filter achieving >55 dB lower-stopband rejection. |
-| **[Stub Matching Networks]([https://github.com/kingnuel2503](https://github.com/kingnuel2503/Tuning-matching-networks))** | RF / Microwave | Keysight ADS | Single open-circuit shunt stub matching networks for a $100 + j80\ \Omega$ load at 3.2 GHz on Rogers RT/duroid 6002. |
+| **[Stub Matching Networks](https://github.com/kingnuel2503/Tuning-matching-networks)** | RF / Microwave | Keysight ADS | Single open-circuit shunt stub matching networks for a $100 + j80\ \Omega$ load at 3.2 GHz on Rogers RT/duroid 6002. |
 | **[Digital Modulation Constellations](https://github.com/kingnuel2503/Digital-Communication-Projects/blob/main/OptimalConstellation.md)** | DSP / Comms | MATLAB | 4-PAM, QPSK, and 8-PSK constellation region mapping optimized for minimum Euclidean distance. |
 
 ---
