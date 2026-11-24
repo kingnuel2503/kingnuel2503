@@ -19,9 +19,9 @@ Electrical Engineering graduate focused on **multi-layer PCB design**, **embedde
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **PCB & Hardware Design** | KiCad (2- & 4-Layer Layout, DRC, Gerber Generation), Hardware Bring-Up & Debugging |
-| **Embedded & HDL** | C, C++, Python, VHDL, SystemVerilog, I²C / Peripheral Interfacing |
+| **Embedded** | C, C++, Python |
 | **DSP & RF Simulation** | MATLAB, Keysight ADS, QUCS-S, Modulation & S-Parameter Analysis |
-| **Lab Instrumentation** | Oscilloscopes, Function/Signal Generators, Digital Multimeters |
+| **Lab Instrumentation** | Oscilloscopes, Function/Signal Generators, Multimeters |
 
 ---
 
